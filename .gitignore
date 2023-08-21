@@ -1,1 +1,30 @@
+# Python-related files
+**/*.pyc
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.vscode/
+
+# Editor-specific files
+.idea/
+.vscode/
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
 .vscode
+
+chatrooms/chatrooms/__pycache__
+chatrooms/chatroom_venv
